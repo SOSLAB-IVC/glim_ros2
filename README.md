@@ -45,8 +45,8 @@ sudo ldconfig
 
 ```
 cd ~/ros2_ws/src
-https://github.com/SOSLAB-IVC/glim
-https://github.com/SOSLAB-IVC/glim_ros2
+git clone https://github.com/SOSLAB-IVC/glim
+git clone https://github.com/SOSLAB-IVC/glim_ros2
 
 cd ~/ros2_ws
 colcon build
